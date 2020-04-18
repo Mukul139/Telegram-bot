@@ -1,10 +1,3 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Sat Apr 18 20:08:15 2020
-
-@author: DELL
-"""
-
 import urllib
 import requests
 import time
